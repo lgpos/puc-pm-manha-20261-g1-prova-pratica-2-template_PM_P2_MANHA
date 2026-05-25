@@ -30,7 +30,7 @@ public class Moto extends Veiculo implements Inspecionavel {
         System.out.println("Modelo: " + getModelo());
         System.out.println("Ano: " + getAnoFabricacao());
         System.out.println("Valor Diária: R$" + getValorDiaria());
-        System.out.println("Quilometragem: " + getQuilometragem() + " km");
+        System.out.println("Quilometragem:  " + getQuilometragem() + " km");
         System.out.println("Status: " + getStatus());
         System.out.println("Cilindrada: " + cilindrada + "cc");
     }
