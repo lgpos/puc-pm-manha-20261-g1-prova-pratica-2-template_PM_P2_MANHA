@@ -10,7 +10,7 @@ package pm_prova2_m;
  */
 public abstract class Veiculo {
     
-    private String placa;
+    private String placa;   
     private String modelo;
     private int anoFabricacao;
     private double valorDiaria;
